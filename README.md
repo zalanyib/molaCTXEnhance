@@ -13,3 +13,13 @@ The high resolution surface imagery used is the 5m resolution data set from the 
 ## How to use it?
 
 ctxEnhanceScript _latitude_ _longitude_start_ _longitude_end_
+
+## Samples
+
+Here are some images to compare the enhanced (28m resolution) tiles to the original MOLA section (463m resolution).
+
+![](./samples/compare1.gif)
+
+![](./samples/compare2.gif)
+
+![](./samples/compare3.gif)
